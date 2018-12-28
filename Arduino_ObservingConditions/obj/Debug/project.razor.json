@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "d:\\Astronomia\\Codigo2\\Arduino_ObservingConditions-master\\Arduino_ObservingConditions\\Arduino_ObservingConditions.csproj",
+  "TargetFramework": "v4.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
